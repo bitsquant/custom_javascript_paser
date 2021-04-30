@@ -165,6 +165,6 @@
         }
     }
 
-let y = '{dash:{sum:[sdsd,f()[0],true]},type:f_0(o, b / 100)["sdc[]sd","adca"]}'
+let y = '{dash:{sum:[sdsd,f()[0],true]},type:[sdsd,true]}'
 let x  = JSONx.parse(y)
 console.log(x)
